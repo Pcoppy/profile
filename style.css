@@ -55,6 +55,8 @@ li {
   color: white;
   text-decoration: none;
   font-family: "heebo", sans-serif;
+  font-size: 15px;
+  font-weight: bold;
 }
 
 .button:hover {
@@ -72,8 +74,9 @@ li {
 
 .line_list li {
   display: inline;
-  font-size: 50px;
-  padding: 5px;
+  font-size: 70px;
+  padding: 20px;
+  padding-left: 0px;
 }
 
 @media (max-width: 960px) {
